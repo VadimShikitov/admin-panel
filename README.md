@@ -1,2 +1,2 @@
-# admin-panel
-NodeJS + React
+Простое приложение на React + Node.js + MongoDb + Express
+
